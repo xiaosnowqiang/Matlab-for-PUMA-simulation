@@ -7,7 +7,9 @@ I have made some modifications based on this demo：https://github.com/PascPeli/
 
 (1)The GUI can read easily because it has been modified to Chinese.
 
-(2)Added some button controls to enrich the demonstration.Including record Joint motion and replay, 
+(2)Added some button controls to enrich the demonstration.Including record Joint motion and replay,
 simple visual control and gesture interaction based leap motion controller.
 
-The more details at the web：https://www.guyuehome.com/5478
+More details on the web：https://www.guyuehome.com/5478
+
+And you can also visit my blog：https://blog.csdn.net/weixin_39090239
