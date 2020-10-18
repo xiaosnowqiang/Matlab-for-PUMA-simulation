@@ -12,6 +12,8 @@ simple visual control and gesture interaction based on leap motion controller.
  
 (3)Using leap motion controller to control the robot you should first read this：https://blog.csdn.net/weixin_39090239/article/details/82389854 (Chinses)，then you will know how the leap motion can communicationwith MATLAB.The MatLeap you can find on this web:https://github.com/jeffsp/matleap 
 
-More details on the web：https://www.guyuehome.com/5478
+# More details on the web：
+https://www.guyuehome.com/5478
 
-And you can also visit my blog：https://blog.csdn.net/weixin_39090239
+# And you can also visit my blog：
+https://blog.csdn.net/weixin_39090239
